@@ -1,6 +1,6 @@
 (function(export_){
 	var Xmzhu ={};
-	
+	//版本号
 	Xmzhu.version = '0.0.0';
 	
 	var $ = Xmzhu.$ = export_.jQuery || export_.$ 
